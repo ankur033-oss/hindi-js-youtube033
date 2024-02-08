@@ -1,0 +1,40 @@
+section{
+    background-color: #2C2867;
+    height: 100%;
+    
+}
+
+.leaf1{
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    background-color: #8A86BB;
+    height: 250px;
+    width: 250px;
+    position: absolute; 
+    margin-top:15% ;
+    margin-left:33% ;
+
+}
+
+.leaf2{
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    background-color: #FFAC00;
+    height: 250px;
+    width: 250px;
+    position: absolute; 
+    margin-top:15% ;
+    margin-left:40% ;
+    
+}
+
+.leaf3{
+    border-top-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    background-color:#FE4474;
+    height: 250px;
+    width: 250px;
+    position: absolute; 
+    margin-top:15% ;
+    margin-left:47% ;
+}

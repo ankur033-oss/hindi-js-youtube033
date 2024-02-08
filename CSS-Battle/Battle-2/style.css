@@ -1,0 +1,34 @@
+.rectangle{
+    background-color: #0E774B;
+    height: 100%;
+}
+.p1{
+    background-color:#FE4474;
+    height:270px ;
+    width:270px;
+    border-top-right-radius: 100%;
+    border-top-left-radius:100% ;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 350px;
+}
+.p2{
+    background-color:FE4474;
+    height:270px ;
+    width:270px;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius:100% ;
+    position: absolute;
+    margin-top: 22.25%;
+    margin-left: 620px;
+}
+.p3{
+    background-color:#FE4474;
+    height:270px ;
+    width:270px;
+    border-top-right-radius: 100%;
+    border-top-left-radius:100% ;
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 890px;
+}
