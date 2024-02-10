@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+
+.form{
+    position: relative; 
+    left: 40px;
+    
+}
+.blank{
+    background-color: white;
+    width: 700px;
+    margin: 50px auto;
+    height: 550px;
+    padding: 20px; 
+}
+.age{
+    position: relative;
+    right: 22px;
+}
+
+.which{
+    position: relative;
+    right: 130px;
+}
+p{
+    text-align: right;
+    position: relative;
+    right: 420px;
+}
+.radio{
+    text-align: left;
+    position: relative;
+    left: 280px;
+    bottom: 52px;
+  
+}
+.what{
+    position: relative;
+    right:81px ;
+    bottom: 40px;
+}
+.checkbox{
+    text-align: left;
+    position: relative;
+    left: 280px;
+    bottom: 52px;
+}
+.pto{
+    position: relative;
+    bottom: 20px;
+}
+
